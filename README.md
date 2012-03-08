@@ -1,6 +1,6 @@
 # Naive Bayes Classifiers
 
-These classifiers were part of a project for my Fall 2011 [machine learning class](http://www.ccs.neu.edu/home/jaa/CS6140.11F/).
+These classifiers were part of a [project](http://www.ccs.neu.edu/home/jaa/CS6140.11F/Homeworks/hw.02.html) for my Fall 2011 [machine learning class](http://www.ccs.neu.edu/home/jaa/CS6140.11F/).
 
 To run, put *spambase.data* from the UCI [spambase dataset](http://archive.ics.uci.edu/ml/datasets/Spambase) into the same directory as *main.py*.
 
@@ -10,4 +10,4 @@ This will perform a 10-fold cross-validation analysis once for each of the featu
 
 See [my analysis](http://www.ccs.neu.edu/home/jaa/CS6140.11F/Homeworks/hw.02.html) for a discussion of the results.
 
--- PLR
+-- [PLR](http://f06mote.com)
