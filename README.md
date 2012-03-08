@@ -11,3 +11,7 @@ This will perform a 10-fold cross-validation analysis once for each of the featu
 See [my analysis](https://docs.google.com/document/d/1ES3X8PE1vNi_l_5n0jVYY8psTdbKZQv3T4dssZU6sko/edit) for a discussion of the results.
 
 -- [PLR](http://f06mote.com)
+
+---
+
+Requires Python 2.7
