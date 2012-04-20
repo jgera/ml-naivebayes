@@ -8,7 +8,7 @@ To run, put *spambase.data* from the UCI [spambase dataset](http://archive.ics.u
 
 This will perform a 10-fold cross-validation analysis once for each of the feature models: bernoulli, gaussian, and histogram. Each will print a table describing its performance on each fold and a write a file containing data for a ROC curve.
 
-See [my analysis](https://docs.google.com/document/d/1ES3X8PE1vNi_l_5n0jVYY8psTdbKZQv3T4dssZU6sko/edit) for a discussion of the results.
+See [my analysis](https://docs.google.com/document/d/1ES3X8PE1vNi_l_5n0jVYY8psTdbKZQv3T4dssZU6sko/edit) for a discussion of the results. **I'm fairly certain there's a bug with the gaussian model.**
 
 -- [PLR](http://f06mote.com)
 
